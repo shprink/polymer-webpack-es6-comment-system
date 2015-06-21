@@ -1,0 +1,24 @@
+{
+  "name": "polymer-webpack-es6-comment-system",
+  "version": "1.0.0",
+  "homepage": "https://github.com/shprink/polymer-webpack-es6-comment-system",
+  "authors": [
+    "shprink <julien.renaux@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.5.6",
+    "core-elements": "Polymer/core-elements#~0.5.6",
+    "paper-elements": "Polymer/paper-elements#~0.5.6"
+  },
+  "resolutions": {
+    "webcomponentsjs": "^0.6.0"
+  }
+}
